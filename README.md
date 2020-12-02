@@ -20,7 +20,7 @@ The dataset provides the average traffic speed per hour for a major road in Hong
     * weather.csv   
     * train.csv
     * test.csv
-* [Final-intergration-20750194.ipynb](#标题)
+* [Final-intergration-20750194.ipynb](#https://github.com/orange-neng/MSBD5001-kaggle-up/blob/main/Final-intergration-20750194.ipynb)
 * [past tries](#文本)
     * try.ipynb
     * try2.ipynb
