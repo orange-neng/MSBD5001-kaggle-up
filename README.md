@@ -46,7 +46,14 @@ Requirments
 |`python`|3.8|
 |`tool`| Jupyter HTML Notebook|
 |`system`|MAC OS|
+|`packages`|pandas, numpy, sklearn, xgboost, math, matplotlib|
 
+How to start
+------
+Download the whole project.
+Run directly the file -> Final-intergration-20750194.ipynb.
+Get submission10.83.csv in the folder.
+submission10.83.csv is the same as the final results -> submission.csv,just different name.
 
 ```diff
 + 人闲桂花落，
