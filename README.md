@@ -53,7 +53,7 @@ How to start
 1. Download the whole project.
 2. Run directly the file -> Final-intergration-20750194.ipynb.
 3. Get submission10.83.csv in the folder.
-* submission10.83.csv is the same as the final results -> submission.csv,just different name.
+* submission10.83.csv is the same as the final results -> submission.csv, just different names.
 
 ```diff
 + 人闲桂花落，
