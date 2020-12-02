@@ -1,7 +1,7 @@
 MSBD5001-kaggle-up
 ===========================
 This is my individual project of MSBD 5001 from HKUST 20FAll BDT.
-！Project details are in the following content.
+* Project details are in the following content.
 
 ### Task Description:
 The individual project counts for 20% of the final grade. It's supported by the smart city project of iSingLab (Smart City).
@@ -21,21 +21,24 @@ The dataset provides the average traffic speed per hour for a major road in Hong
     * weather.csv  
       This was crawled from the internet.  
       Column:
-      1.weather: 0-sunny/cloudy     1-light rain/shower      2-moderate rain/heavy rain
-      2.wind: wind rating
+      |weather|0-sunny/cloudy；1-light rain/shower； 2-moderate rain/heavy rain|
+      |wind|wind rating|
     * train.csv
     * test.csv
     * HONG KONG public holiday 2017/2018 （this included in code）
       https://www.gov.hk/tc/about/abouthk/holiday/
-* [Final code : Final-intergration-20750194.ipynb](#dd)
-* [Final result : submission.csv](#文本)
+      
 * [past tries](#文本)
     * try.ipynb
     * try2.ipynb
     * try3-减少特征-xgb.train.ipynb
     * ...
       This 12 files are all my tries to check which features and models should be selected.
-    
+      
+* [Final code : Final-intergration-20750194.ipynb](#dd)
+
+* [Final result : submission.csv](#文本)
+
 Requirments
 ------
 |environment|version|
