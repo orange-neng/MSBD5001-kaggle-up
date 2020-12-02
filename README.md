@@ -50,10 +50,10 @@ Requirments
 
 How to start
 ------
-Download the whole project.
-Run directly the file -> Final-intergration-20750194.ipynb.
-Get submission10.83.csv in the folder.
-submission10.83.csv is the same as the final results -> submission.csv,just different name.
+1. Download the whole project.
+2. Run directly the file -> Final-intergration-20750194.ipynb.
+3. Get submission10.83.csv in the folder.
+* submission10.83.csv is the same as the final results -> submission.csv,just different name.
 
 ```diff
 + 人闲桂花落，
