@@ -21,8 +21,8 @@ The dataset provides the average traffic speed per hour for a major road in Hong
     * weather.csv  
       This was crawled from the internet.  
       Column:
-      |`weather`|0-sunny/cloudy；1-light rain/shower； 2-moderate rain/heavy rain|
-      |`wind`|wind rating|
+      * |`weather`|0-sunny/cloudy；1-light rain/shower； 2-moderate rain/heavy rain|
+      * |`wind`|wind rating|
     * train.csv
     * test.csv
     * HONG KONG public holiday 2017/2018 （this included in code）
