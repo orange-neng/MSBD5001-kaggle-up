@@ -37,7 +37,7 @@ The dataset provides the average traffic speed per hour for a major road in Hong
       
 * [Final code : Final-intergration-20750194.ipynb](#dd)
 
-* [Final result : submission.csv](#文本)
+* [Final result : submission0.01.csv/submission0.02.csv](#文本)
 
 Requirments
 ------
@@ -52,8 +52,8 @@ How to start
 ------
 1. Download the whole project.
 2. Run directly the file -> Final-intergration-20750194.ipynb.
-3. Get submission10.83.csv in the folder.
-* submission10.83.csv is the same as the final results -> submission.csv, just different names.
+3. Get submission.csv in the folder.
+* submission.csv is the same as the final results -> submission0.02/submission0.01.csv, just different names.
 
 ```diff
 + 人闲桂花落，
