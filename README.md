@@ -46,7 +46,7 @@ Requirments
 |`python`|3.8|
 |`tool`| Jupyter HTML Notebook|
 |`system`|MAC OS|
-|`packages`|pandas, numpy, sklearn, xgboost, math, matplotlib|
+|`packages`|pandas, numpy, seaborn, sklearn, xgboost, math, matplotlib|
 
 How to start
 ------
