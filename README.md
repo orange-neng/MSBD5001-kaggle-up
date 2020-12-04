@@ -51,10 +51,10 @@ Requirments
 How to start
 ------
 1. Download the whole project.
-2. Run directly the file -> Final-intergration-20750194.ipynb.
-3. Get submission.csv in the folder.
+2. Run directly the file -> `Final-intergration-20750194.ipynb` using colab or jupyter
+3. Get `submission.csv` in the folder.
 * submission.csv is the same as the final results -> submission0.02/submission0.01.csv, just different names.
-
+* Remember to change the path according to your own address（if u download the whole project，path is right）.
 ```diff
 + 人闲桂花落，
 # 时鸣春涧中。
